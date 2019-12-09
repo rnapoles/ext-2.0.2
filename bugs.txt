@@ -1,0 +1,6 @@
+replace :
+table.x-date-inner{width:100%;table-layout:fixed;}
+by:
+table.x-date-inner{width:200px!important;table-layout:fixed;}
+or:
+table.x-date-inner{table-layout:fixed;}
